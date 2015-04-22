@@ -91,3 +91,24 @@ body {
     border-bottom: 0;
   }
 }
+
+/* CUSTOM */
+ul{
+  list-style-type: none;
+  padding: 0;
+  }
+
+.control-interface{
+  padding-bottom: 10px;
+}
+
+ul.list{
+  li:nth-child(even) {background: #9DC2E1}
+  li:nth-child(odd) {background: #FFF}
+}
+.sort{
+  margin-bottom: 3px;
+    padding: 2px 5px;
+}
+
+
