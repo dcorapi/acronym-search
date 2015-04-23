@@ -255,7 +255,6 @@ LVC-IA
 Live, Virtual, Constructive Integrated Architecture
 
 F2Si
-Fedelity Flight Simulation Inc
 Fidelity Flight Simulation Inc.
 
 LWIR
@@ -326,7 +325,6 @@ VMware Infrastructure 3
 
 CDR
 Critical Design Review
-Critical Design Review (a U.S. government design review in the engineering process)
 
 VDIS
 Virtual Desktop Infrastructure Suite
@@ -383,7 +381,6 @@ National Fire Protection Association
 
 CDT
 Common Driver Trainer
-MTF Common Driver Trainer Mobile Training Facility
 
 TTP
 Tasks, Techniques, and Procedures
@@ -808,7 +805,6 @@ FEC
 Forward Error Correction
 
 ERC
-Environment Run-time Component
 Environment Runtime Component
 
 IPR
@@ -1196,7 +1192,6 @@ GSPD
 Ground Speed
 
 API
-Application Programmable Interface
 Application Programming Interface
 
 C4ISR
@@ -1395,8 +1390,6 @@ Single Channel Ground and Airborne Radio System
 
 COTS
 Commercial Off The Shelf
-Commercial Off-The-Shelf
-Commercial off-the-Shelf
 
 SW
 Software
@@ -1790,7 +1783,6 @@ Rockwell Collins line of IGs
 
 AVT
 Automatic Video Tracker
-Automatic Video Tracking
 
 MEN
 menu
@@ -1805,8 +1797,6 @@ Part of a Manual name: Illuminator LS-16,
 
 CAD
 Caution and Advisory Display
-Caution and Advisory System
-Cautions and Advisories Display
 Computer-Aided Design
 
 MM
