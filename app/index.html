@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, minimal-ui">
-    <title>F2SI Acronyms</title>
+    <title>F2SI Acronyms and Abbreviations</title>
     <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 
     <!-- build:css styles/vendor.css -->
@@ -32,7 +32,7 @@
           <li><a href="http://www.google.com">Code</a></li>
         </ul>
         <!-- <img src="images/logo.jpg" alt="f2si logo"> -->
-        <h3 class="text-muted">F2SI Acronyms</h3>
+        <h3 class="text-muted">F2SI Acronyms and Abbreviations</h3>
       </div>
 
 
@@ -47,25 +47,26 @@
       
       <!-- sort button -->
       <button class="btn btn-primary sort" data-sort="abbreviation">Sort by acronym</button>
+      <button class="btn btn-primary sort" data-sort="expanded">Sort by definition</button>
       
     </div>
 
     <ul class="list">
       <li class="row">
-        <p class="col-md-6 abbreviation">Jonny Sliomberg</p>
-        <p class="col-md-6 full">1986</p>
+        <pre class="col-md-3 abbreviation">Jonny Sliomberg</pre>
+        <pre class="col-md-9 expanded">1984</pre>
       </li>
       <li class="row">
-        <p class="col-md-6 abbreviation">Jonas Arnklint</p>
-        <p class="col-md-6 full">1985</p>
+        <pre class="col-md-3 abbreviation">Jonas Arnklint</pre>
+        <pre class="col-md-4 expanded">1985</pre>
       </li>
       <li class="row">
-        <p class="col-md-6 abbreviation">Martina Elm</p>
-        <p class="col-md-6 full">1986</p>
+        <pre class="col-md-3 abbreviation">Martina Elm</pre>
+        <pre class="col-md-4 expanded">1984</pre>
       </li>
       <li class="row">
-        <p class="col-md-6 abbreviation">Gustaf Lindqvist</p>
-        <p class="col-md-6 full">1983</p>
+        <pre class="col-md-3 abbreviation">Gustaf Lindqvist</pre>
+        <pre class="col-md-4 expanded">1983</pre>
       </li>
     </ul>
     </div>
@@ -93,7 +94,7 @@
 var options = {
     valueNames: [
         'abbreviation',
-        'full'
+        'expanded'
     ]
 };
 var userList = new List('users', options);
