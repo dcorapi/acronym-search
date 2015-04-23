@@ -1,0 +1,1851 @@
+OFP
+Operational Flight Program
+
+DRY
+Don't Repeat Yourself
+
+VOR
+VHF Omnidirectional Radio Range
+
+VXS
+VMEBus Switched Serial
+
+SRU
+Shop Replaceable Unit
+
+RDM
+Raw Device Mappings
+
+SETUID
+Set User ID
+
+SPS
+Software Product Specification
+
+SRR
+System Requirements Review
+
+HV
+High Voltage
+
+DTP
+Dynamic Trunking Protocol
+
+LRN
+Long range Navigation
+
+ILS
+Instrument Landing System
+
+FAT
+First Article Test
+
+SCSI
+Small Computer System Interface
+
+CCL
+CIGI Class Library
+
+SIL
+System Integration Lab
+
+DCL
+Dynamic Control Loaders
+
+TRS
+Timing Reference Signal
+
+NEC
+National Electric Code
+
+Hz
+Hertz
+
+YAGNI
+You Aren't Gonna Need It
+
+QoS
+Quality of Service
+
+MTU
+Maximum Transmission Unit
+
+AHDS
+Attitude Heading Direction System
+
+SSL
+Secure Socket Layer
+
+NVG
+Night Vision Goggles
+
+COMM
+Communication
+
+PCR
+Program Change Request
+
+HR
+Human Resources
+
+VRSG
+Virtual Reality Scene Generator
+
+VTR
+Video Tape Recorders
+
+FG
+Flight Gear
+
+SISO
+Simulation Interoperability Standards Organization
+
+IR
+Infrared
+
+CFFT
+Call For Fire Trainer
+
+SLASS
+SLAved Searchlight System
+Slaved Searchlight System
+
+SNC
+Sierra Nevada Corporation
+
+VIC
+Video in Command
+Video in Control
+
+CPSMR
+Contractors' Progress Status and Management Report
+
+CALL
+Center for Lessons Learned
+
+NATO
+North Atlantic Treaty Organization
+
+WARSIM
+Warfighters' Simulation
+
+ANURAG
+Advanced NUmerical Research and Analysis Group
+
+VDS
+Vehicle Dynamics Simulation
+
+TB
+Terabyte
+
+IBM
+International Business Machines
+
+UDP
+User Datagram Protocol
+
+MCC
+Master Control Console
+
+AFCS
+Automatic Flight Control System (commonly known as an Autopilot)
+
+DRS
+Distributed Resource Scheduler
+
+CH
+Part of a part number CH-47F Chinook aircraft
+
+WAATS
+Western Army Aviation Training Site
+
+RADIUS
+Remote Authentication Dial In User Service
+
+HBSS
+Host Based Security System
+
+OTF
+Objective Terrain Format
+
+CPS
+Customer Programming Software.
+
+RIB
+Radio Interface Box
+
+ICS
+Intercommunication System
+Interim Contractor Support
+
+LVC
+Live, Virtual, Constructive
+
+NTC
+National Training Center
+
+Rx
+Receive
+
+GPO
+Government Program Office
+
+CMOS
+Complementary Metal-oxide-semiconductor
+
+PMCS
+Preventative Maintenance Corrective Schedule
+
+QMS
+Quality Management System
+
+CWBS
+Contractor Work Breakdown Structure
+
+RC
+Part of a program name RC-12X programs
+
+EN5
+EuroNav 5 map system (COTS)
+
+BOE
+Basis of Estimate
+
+NMS
+Navigation Management System
+
+COR
+Contracting Officer's Representative
+
+NAS
+Network Attached Storage
+
+VHF
+Very High Frequency
+
+SNGP
+Single Point
+
+STE
+Security Test and Evaluation
+Synthetic Training Environment
+
+S3
+System Studies and Simulation, Inc.
+
+RP
+Remote Programmer
+
+CAS
+Cockpit Avionics Simulation
+
+SOP
+Standard Operating Procedure
+
+CCB
+Configuration Control Board
+
+OneSAF
+One Semi-Automated Forces
+
+GUI
+Graphical User Interface
+
+LVC-IA
+Live, Virtual, Constructive Integrated Architecture
+
+F2Si
+Fedelity Flight Simulation Inc
+Fidelity Flight Simulation Inc.
+
+LWIR
+Long Wave Infrared
+
+STD
+Software Test Description
+
+ARNG
+Army National Guard
+
+DCS
+Digital Coded Squelch
+
+SAF
+Semi-Automated Forces
+
+GFP
+Government-Furnished Property
+
+BRG
+Bearing
+
+HPIS
+High Power Illumination System
+
+ECM
+Electronic Counter Measures
+
+SEP
+Synthetic Environment Processor
+
+JRTC
+Joint Readiness Training Center
+
+DIS
+Distributed Interactive Simulation
+
+LOS
+Line of Sight
+
+ARP
+Address Resolution Protocol
+
+TNC
+Threaded Neill Concelman
+
+LED+IR
+Light Emitting Diode + Infrared
+
+DMSS
+Dynamic Motion Seat System
+
+JITC
+Joint Interoperability Test Command
+
+JTF
+Joint Task Force
+
+PDF
+Portable Document Format
+
+FMI
+Flight Manual Instructions
+
+VI3
+VMware Infrastructure 3
+
+CDR
+Critical Design Review
+Critical Design Review (a U.S. government design review in the engineering process)
+
+VDIS
+Virtual Desktop Infrastructure Suite
+
+EFIS
+Electronic Flight Instrument System
+
+CHAP
+Challenge Handshake Authentication Protocol
+
+RFM
+Rotorcraft Flight Manual
+
+SSS
+System/Subsystem Specification
+
+OSAT
+Onsite Acceptance Test
+
+WAN
+Wide Area Network
+
+POC
+Point of Contact
+Point-of-Contact
+
+TFR
+Trainer Facilities Report
+
+MPEG-2
+Motion Pictures Export Group - 2
+
+MTM
+Multiple Transceiver Module.
+
+VEMD
+Vehicle and Engine Monitoring Display
+Vehicle and Engine Multi-function Display
+
+OS
+Operating System
+
+MAPCTL
+Map Control
+
+GOTS
+Government Off the Shelf
+
+RSS
+Radio Service Software
+
+NFPA
+National Fire Protection Association
+
+CDT
+Common Driver Trainer
+MTF Common Driver Trainer Mobile Training Facility
+
+TTP
+Tasks, Techniques, and Procedures
+
+EUI
+Extended Unique Identifier
+
+USMC
+United States Marine Corps
+
+DOF
+Degrees of Freedom
+
+NIC
+Network Interface Card
+
+NAV
+Navigation
+
+IEC
+International Electrotechnical Commission
+
+LHN
+Long Haul Networking
+
+AHRS
+Attitude Heading Reference System
+Attitude and Heading Reference System
+
+EXT3
+Third Extended File System (Journalled)
+
+CDRL
+Contract Data Requirements List
+
+VMS
+Video Management System
+Vulnerability Management System
+
+SDK
+Software Developers Kit
+
+CTIA
+Common Training Information Architecture
+
+SME
+Subject Matter Experts
+
+IANA
+Internet Assigned Number Authority
+
+MAC
+Media Access Control
+Mission Assurance Category
+
+DVR
+Digital Video Recorder
+
+VMNIC
+Virtual Machine Network Interface Card
+
+UV
+Ultraviolet
+
+MAN
+manual
+
+PDU
+Power Distribution Unit
+
+SKYSIM
+Skyquest Simulation
+
+DORT
+Daily Operational Readiness Test
+
+MIB
+Management Information Base
+
+DOORS
+Dynamic Object-Oriented Requirements System
+
+LASER
+Light Amplification by Stimulated Emission of Radiation
+
+SAE
+Society of Automotive Engineers
+
+PuTTY
+he word "PuTTY" has no meaning,[1] though 'tty' is sometimes used to refer to the Unix terminals, as an acronym for 'teletype'.
+
+QA
+Quality Assurance
+quality assurance
+
+RTVM
+Requirements Traceability and Verification Matrix
+
+HBA
+Host Bus Adapter
+
+MFD
+Multifunctional Flight Display
+
+TCP
+Transmission Control Protocol
+
+HCU
+Hand Controller Unit
+Hand Controller Unit (searchlight HCU and Mx15 HCU)
+Hand Controller Units
+
+CPT
+Cockpit Procedural Trainer
+
+ICD
+Interface Control Document
+Interface Control Documents
+
+WUXGA
+Part of a Product Name
+
+WP
+Work Packages
+
+DOT
+Department of Transportation
+
+NET
+New Equipment Training
+
+WBS
+Work Breakdown Structure
+
+BIT
+Built in Test
+
+VMDK
+VM Disk
+
+FM
+Frequency Modulation
+
+FPDPRM
+FPDPRM Front Panel Data Port (receiver master)
+
+DIACAP
+DoD IA Certification and Accreditation Process
+
+COFDM
+Coded Orthogonal Frequency Division Multiplexing
+
+KVL
+Key Variable Loader
+
+SEDRIS
+Synthetic Environment Data Representation and Interchange Specification
+
+ESX
+VMware Enterprise Server
+
+RCM
+Reliability Centered Maintenance
+
+UAS
+Unmanned Aerial System
+
+UTK
+Universal Toolkit
+
+MTBF
+Mean Time Between Failures
+
+CVEM
+Common Virtual Environment Management
+
+ETL
+Effective Translational Lift
+
+DSK
+Disk
+
+RT
+Receiver/Transmitter
+
+SVD
+Software Version Description
+
+IIS
+Internet Information Systems
+
+Ao
+Operational Availability
+
+LORA
+Level of Repair Analysis
+
+VV
+Validation and Verification
+
+IPT
+Integrated Product Team
+
+MXSYM
+Symbology Software component
+
+PWA
+Printed Wiring Assembly
+
+UHRB
+Ultra-High Resolution Building
+
+NGB
+National Guard Bureau
+
+TENA
+Test and Training Enabling Architecture
+
+DOS
+Directorate of Simulation
+Disk Operating System
+
+SNMP
+Simple Network Management Protocol
+
+DISA
+Defense Information Systems Agency
+
+IEEE
+Institute for Electrical and Electronic Engineers
+
+TDY
+Temporary Duty
+
+DTD
+Document Type Definition
+
+BTU
+British Thermal Unit
+
+AFATDS
+Advanced Field Artillery Targeting and Direction System
+
+SS
+Security and Support
+
+TFTP
+Trivial File Transfer Protocol
+
+NAT
+Network Address Translation
+
+FPDPR
+FPDPR Front Panel Data Port (receiver)
+
+NCBR
+Nuclear, Chemical, Biological and Radiological
+
+VMM
+Virtual Machine Monitor
+
+IPDG
+Instrument Projector Display Generator
+
+AMD
+Advanced Micro Devices
+
+GCC
+Geocentric Coordinates
+
+CGF
+Computer Generated Forces
+
+DRMO
+Defense Reutilization and Marketing Office
+
+PEO-STRI
+Program Executive Office for Simulation, Training, and Instrumentation
+
+P25
+Project 25
+
+RF
+Radio Frequency
+
+NRE
+Nonrecurring Engineering
+
+UAV
+Unmanned Aerial Vehicle
+
+MWIR
+Middle Wave Infrared
+
+GNS
+Global Navigation System
+
+PE
+Practical Exercises
+
+LS16
+Luminator Searchlight 16
+
+SETGID
+Set Group ID
+
+ADF
+Automatic Direction Finder
+
+IG
+Image Generator
+
+CAI
+Common Air Interface
+
+NTP
+Network Time Protocol
+
+POI
+Program of Instruction
+
+ISA
+Industry Standard Architecture
+
+PL
+Private-Line™
+
+NCM3
+Non-Rated Crew Member Manned Module
+
+AVCATT-A
+Aviation Combined Arms Tactical Trainer-Aviation Reconfigurable Manned Simulator
+
+TTG
+Time to go
+
+ITM
+Internal Transceiver Module
+
+APCO
+Association of Public Safety Communications Officials
+
+EON
+Electro-Optical Narrow
+
+GL
+Graphics Library
+
+MSDL
+Military Scenario Development Language
+
+GFI
+Government Furnished Information
+
+PFD
+Primary Flight DisplayPrimary Flight Display
+
+TBD
+To Be Determined
+
+NIPRNET
+(unclassified but sensitive) Network Internet Protocol Routing Network
+
+ICAS
+Traffic Alert and Collision Avoidance System
+
+GCS
+Global Coordinate System
+
+CSC
+Computer Software Component
+
+PC
+Personal Computer
+
+M
+
+NRTL
+Nationally Recognized Test Laboratories
+
+MRS
+Multi-Rate Sequential
+
+FMS
+Flight Management System
+Flight Manual Supplements
+
+ISCSI
+Internet SCSI
+
+IAVA
+Information Assurance Vulnerability Alert
+
+SDLC
+System Development Life-Cycle
+
+KISS
+Keep It Simple, Stupid
+
+BCIS
+Battlefield Combat Identification System
+
+ACL
+Access Control List
+
+PLC
+Programmable Logic ControllerProgrammable Logic Controller
+
+HMI
+Human Machine Interface
+
+DEP
+Design Eye Point
+
+TWV
+Tactical Wheeled Vehicle
+
+VDL
+Video Down Link
+
+FEC
+Forward Error Correction
+
+ERC
+Environment Run-time Component
+Environment Runtime Component
+
+IPR
+Interim Program Review
+
+FTP
+File Transfer Protocol
+
+DME
+Distance Measuring Equipment
+
+PEO
+STRI Program Executive Office for Simulation Training and Instrumentation
+STRI Program Executive Office for Simulation, Training, and Instrumentation
+
+SCAP
+Security Content Automation Protocol
+
+FTD
+Flight Training Device
+
+CA
+Certification and Accreditation
+
+MBP
+Mission Bus Panel
+
+DoDI
+Department of Defense Instruction
+
+AMSAA
+Army Materiel System Analysis Activity
+
+AIP
+Additional Integrated Player
+
+DMS
+Dynamic Motion Seat
+
+SE
+Core Systems Engineering Core
+
+C2
+Command and Control
+
+IO
+Input/Output
+Interoperability
+
+ARINC
+Aeronautical Radio, Incorporated
+
+AVCATT
+Aviation Combined Arms Tactical Trainer
+
+LAP
+Laser Arming Panel
+
+IAM
+Information Assurance Manager
+
+INS
+Inertial Navigation System
+
+ISD
+Instructional System Development
+
+SIP
+Supplemental Instructor Panel
+Supplemental Instructor S Panel
+
+VCB
+VMware Consolidated Backup
+
+CSCI
+Computer Software Configuration Item
+
+STP
+Spanning Tree Protocol
+
+CAMAC
+Computer Automated Measurement and Control
+
+BK
+Part of a device Model number: EC-145 (BK-117 C-2)
+
+EXT2
+Second Extended File System
+
+TADSS
+Training Aids, Devices, Simulators and Simulations
+
+AIS
+Automated Information System
+
+CMP
+Configuration Management Plan
+
+CONUS
+Continental United States
+
+AVDU
+Airborne Video Display Unit
+
+CD
+Configuration Database
+
+VTP
+VLAN Trunking Protocol
+
+STIG
+Security Technical Implementation Guide
+Security Technical Implementation Guides
+
+CFR
+Code of Federal Regulations
+
+HLA
+High Level Architecture
+
+CLIN
+Contract Line Item Number
+
+ODBC
+Open Database Connectivity
+
+SCC
+SCAP Compliancy Checker
+
+PHST
+Packaging, Handling, Storage, and Transportability
+
+TC3
+TC 3-04.21 Aircrew Training Manual, Light Utility Helicopter, UH-72A
+
+OSV
+Oshkosh Specialty Vehicles
+
+DOD
+Department of Defense
+
+FFP
+Firm Fixed Price
+
+MOUT
+Military Operations in Urban Terrain
+
+SRNS
+Short Range Navigation System
+
+MEL
+Master Entity List
+
+FAR
+Federal Acquisition Regulation
+
+CI
+Configuration Item
+
+NSA
+National Security Agency
+
+ADC
+Air Data Computer
+
+IASE
+Information Assurance Support Environment
+
+ECCM
+Electronic Counter Counter Measures
+
+SF
+Square Foot
+
+Tx
+Transmit
+
+IAW
+In Accordance With
+
+ASTi
+Advanced Simulation Technology, Inc
+
+ROI
+Return on Investment
+
+AR
+Army Regulation
+
+FPDP
+Front Panel Data Port
+
+MEP
+Mission Equipment Package
+
+IQN
+ISCSI Qualified Name
+
+SOW
+Statement of Work
+
+PA
+Pennsylvania
+
+EAATS
+Eastern Army Aviation Training Site
+
+IPMR
+Integrated Program Management Report
+
+WAAS
+Wide Area Augmentation System
+
+OGE
+Out of Ground Effect
+
+TDB
+Terrain Database
+
+TRADOC
+Training and Doctrine Command
+
+FBCB2
+Force XXI Battle Command Battalion/Brigade and Below
+
+OEM
+Original Equipment Manufacturer
+
+HA
+High Availability
+
+APR
+Approach
+
+AM
+Amplitude Modulation
+
+VST
+Virtual Switch Tagging
+
+ATP
+Acceptance Test Procedure
+Aircrew Training Program
+
+DHCP
+Dynamic Host Configuration Protocol
+
+ML3
+Maturity Level 3
+
+GRP
+Government Purpose Rights
+
+IAVM
+Information Assurance Vulnerability Management
+
+CCTT
+Close Combat Tactical Trainer
+
+NDI
+Non Developmental Item
+
+ANSI
+American National Standards Institute
+
+SMDT
+Standard Definition Messenger Transmitter
+
+ANAMICA
+ANURAG's Medical Imaging and Characterization Aid
+
+VPN
+Virtual Private Network
+
+UID
+Unique Identification
+
+GPR
+Government Purpose Rights
+
+TIM
+Technical Interchange Meeting
+
+IDD
+Interface Design Document
+
+MPEG
+Moving Picture Experts Group
+
+RAT
+Remote Administration Tool
+
+SLA
+Service Level Agreement
+
+MS
+Microsoft
+Modeling Simulation
+
+C4I
+Command, Control, Communications, Computers and Information
+
+DES
+Digital Encryption Standard
+
+MADC
+Micro-air Data Computer
+
+OTAR
+Over The Air Re-key
+
+NIR
+Near Infrared Filter
+
+DAS
+Distributed Availability Service
+
+L2I
+Lessons Learned and Insights
+
+FPDTM
+FPDPTM Front Panel Data Port (transmitter master)
+
+NIST
+National Institute of Standards and Technology
+
+3-D
+Three-Dimensional
+
+MXSIM
+Simulation Software Component
+
+SSH
+Secure Shell
+
+PACE
+Processor for Aerodynamic Computations and Evaluation
+
+PKI
+Public Key Infrastructure
+
+SWB
+Southwest Boarder
+
+IAO
+Information Assurance Officer
+
+RWA
+Rotary-Wing Aircraft
+
+MOOTW
+Military Operations Other Than War
+
+MBA
+Masters of Business Administration
+
+AES
+Advanced Encryption Standard
+
+ASDC
+Application Security Developer S Checklist
+
+ECU
+Electronic Control Unit
+
+EST
+External Switch Tagging
+
+MD5
+Message-Digest Five Algorithm
+
+ND
+Navigation Display
+
+SOF
+Start of Frame
+
+SEE
+Systems Engineering Environments
+
+PDSS
+Post Deployment Software Support
+
+GSPD
+Ground Speed
+
+API
+Application Programmable Interface
+Application Programming Interface
+
+C4ISR
+Command, Control, Communications, Computers, Intelligence, Surveillance, and Reconnaissance
+
+CVBS
+Color, Video, Blanking and Sync
+
+SAN
+Storage Area Network
+
+PAM
+Pluggable Authentication Module
+
+TOC
+ABCS Tactical Observations Center Army Battle Command Systems
+Tactical Operation Center
+
+OSHA
+Occupational Safety and Health Administration
+
+HTTP
+Hypertext Transfer Protocol
+
+SYSLOG
+System Log
+
+BMC
+Battlemaster Control
+
+CCM
+Confederate Coordination Meeting
+
+IDE
+Integrated Drive Electronics
+Interactive Digital Environment
+
+RD
+Research and Devleopment
+
+LNA
+Low Noise Amplifier
+
+JTF-GNO
+Joint Task Force-Global Network Operations
+
+RMT
+Risk Management Tool
+
+TC
+Army Doctrine and Training Publications
+
+GDC
+Geodetic Coordinates
+
+OM
+Operation and Maintenance Manual
+Operations and Maintenance
+
+DRB
+Discrepancy Review Board
+
+ATN
+Army Training Network
+
+RA
+Reconnaissance and Attack
+Registration Authority
+
+QPSK
+Quadrature Phase Shift Keying
+
+TLCD
+Top Logistics Cost Driver
+
+IAS
+Integrated Avionics Computer
+
+GFE
+Government-Furnished Equipment
+
+VME
+Versa Module Eurocard (IEEE 1014)
+
+SAIC
+Science Applications International Corporation
+
+VLAN
+Virtual Local Area Network
+
+NTSC
+National Television System Committee
+
+LUN
+Logical Unit Number
+
+CTCSS
+Continuous Coded Squelch System.
+
+MOS
+Military Occupational Specialty
+
+IPSEC
+IP Security
+
+ISEC
+Information Systems Engineering Command
+
+IOS
+Instructor’s Operating Station
+
+VOX
+Voice Operated Exchange
+
+SPEC
+Specification
+
+BOM
+Bill of Material
+
+IED
+Improvised Explosive Device
+
+COO
+Chief Operations (or Operating) Officer
+
+MAPSIM
+Map Simulation
+
+NBC
+Nuclear, Biological and Chemical
+
+FOV
+Field of View
+
+VP
+Vice Preseident
+
+MX
+Part of a model number Wescam MX-15i Electro-Optic/Infrared (EO/IR) Sensor
+
+UHMEP
+UH-72A Mission Equipment Package
+
+HSI
+Hardware and Software Integration
+Horizontal Situation Indicator
+
+BLUFOR
+Blue Force
+
+DoD
+Department of Defense
+
+SC
+Single Cue
+
+EGPWS
+Enhanced Ground Proximity Warning System
+
+QAM
+Quadrature Amplitude Modulator
+
+IMU
+Inertial Measurement Unit
+
+LOG
+Line-or-Generator
+
+FAA
+Federal Aviation Administration
+
+CTE
+Certification, Test, and Evaluation
+
+FRACAS
+Failure Reporting, Analysis and Corrective Action System
+
+EC
+Eurocopter
+
+NIU
+Network Interface Unit
+
+TP
+Test Procedures
+
+O
+Operation and Maintenance Manual
+
+SFTS
+Synthetic Flight Training System
+
+SINCGARS
+Single Channel Ground and Airborne Radio System
+
+COTS
+Commercial Off The Shelf
+Commercial Off-The-Shelf
+Commercial off-the-Shelf
+
+SW
+Software
+
+PDR
+Preliminary Design Review
+
+HID
+Human Interface Device
+
+NTFS
+New Technology File System
+
+IA
+Information Assurance
+
+CCD
+Charged Coupled Device
+
+CAT2
+Category 2
+
+CB
+Circuit Breaker
+
+SUM
+Software User's Manual
+
+EO
+Electro-Optical
+
+SRB
+Software Review Board
+
+UKCATT
+United Kingdom Combined Arms Tactical Trainer
+
+IMS
+Integrated Master Schedule
+
+AI
+Architecture and Engineering
+
+UTM
+Universal Transverse Mercator
+
+Kw
+Kilowatt
+
+TRR
+Test Readiness Review
+
+SQL
+Structured Query Language
+
+SIPRNET
+Secret Internet Protocol Router Network
+
+INFOCON
+Information Operations Condition
+
+ECS
+Environmental Control System
+
+SCAO
+SIPRNet Connection Approval Office
+
+VDU
+Video Display Unit
+
+WWW
+World Wide Web
+
+ISO
+International Organization for Standardization
+International Organization for Standardization (File system For CD-ROM Media)
+
+HOT
+Height of Terrian
+
+TDP
+Technical Data Package
+
+LRU
+Line Replaceable Unit
+
+RAID
+Redundant Array of Independent Disks
+
+UH
+Part of Model Number UH-72A
+
+FL
+Florida
+
+SV
+Stryker Variant
+
+EOIR
+Electro-Optic/Infrared
+
+LOD
+Level of Detail
+
+SA
+Situational Awareness
+System Administrator
+
+EPA
+Environmental Protection Act
+
+USGS
+U.S. Geological Survey
+
+OUI
+Organization Unique Identifier
+
+HMMWV
+High Mobility Multipurpose Wheeled Vehicle
+
+MTG
+MEP Training Guide
+
+VMFS
+VMware File System
+
+IT
+Integration and Test
+
+LDAP
+Lightweight Directory Access Protocol
+
+TAC-V
+Tactical  Video
+
+PIP
+Picture in Picture
+
+AAR
+After Action Reports
+After Action Review
+
+IUID
+Item Unique Identification
+
+SNE
+Synthetic Natural Environment
+
+HVAC
+Heating, Ventilation, and Air Conditioning
+
+CLI
+Command Line Interface
+
+DI
+Dismounted Infantry
+
+MCU
+Master Control Unit
+
+HMD
+Helmet Mounted Display
+
+MTF
+Mobile Training Facility
+
+PDD
+Product Definition Data
+
+PVD
+Plan View Display
+
+OneTESS
+One-Tactical Engagement Simulation System
+
+CD-ROM
+Compact Disc-Read-Only Memory
+
+TLS
+Transport Layer Security
+
+COW
+Copy-On-Write
+
+OPFOR
+Opposing Force
+
+U.S.
+United States
+
+VMXNET
+Virtual Adapter
+
+MCT
+Master Control Terminal
+
+BAM
+Basic Accreditation Manual
+
+SMTP
+Simple Mail Transfer Protocol
+
+GTD
+Government Test Director
+
+PCI
+Peripheral Component Interconnect
+
+FEM
+Flight and Engine Model
+
+CMMI
+Capability Maturity Model Integration
+
+FD
+Flight Director
+
+SIM
+Simulation
+
+ASTRO
+Motorola's standard for to APCO Project 25 compliancy
+
+LAN
+Local Area Network
+
+RFP
+Request for Proposal
+
+MSDE
+Microsoft SQL Server Desktop Engine
+
+UL
+Underwriters Laboratories
+
+CPU
+Central Processing Unit
+
+UML
+Unified Modeling Language
+
+CBRNE
+Chemical, Biological, Radiological, Nuclear and High Explosive
+
+DTED
+Digital Terrain Elevation Data
+
+TTY
+A teletypewriter (also called a teletype or teleprinter)
+TeleType Terminal
+
+JCATS
+Joint Conflict and Tactical Simulation
+
+OH
+Part of a Government program name OH-58D Block II Level 2 Man-Unmanned (L2MUM) capabilities
+
+MV
+Mounted Vehicle
+
+TCM
+TRADOC Capability Management
+
+SEIT
+Systems Engineering and Integration Team
+
+VCCT
+Virtual Convoy Combat Trainer
+
+RCU
+Remote Control Unit
+
+PPS
+Ports Protocols and Services
+
+SSI
+Software-Software Integration
+
+FCP
+Functional Check Pilots
+
+DR
+Discrepancy Report
+
+WYSIWYG
+What You See Is What You Get
+
+ACA
+Associate Contractor Agreements
+
+MMHC
+Manned Module Host Computer
+
+CIGI
+Common Image Generator Interface
+
+DTMF
+Dual Tone Multiple Frequency
+
+MIL-STD
+Military-Standard
+
+SCP
+Secure Copy Protocol
+
+CP
+Co-Pilot
+Copy Protocol
+Cross Pointer
+
+CM
+Configuration Management
+
+VITA
+VMEbus International Trade Association
+
+SORD
+Simulation Object Runtime Database
+
+RFT
+Ready for Training
+
+EOW
+Electro-Optical Wide
+
+VDC
+Direct Current Voltage
+Volts Direct Current
+
+USB
+Universal Serial Bus
+
+CM2
+Common Moving Models
+
+VLANCE
+Virtual Adapter
+
+IP
+Instructor Pilots
+Internet Protocol
+
+FCS
+Flight Control System
+
+XML
+Extensible Markup Language
+
+SSOW
+Subcontractor Statement of Work
+
+EPO
+Emergency Power Off
+
+VGT
+Virtual Guest Tagging
+
+CMC
+Communication Management Controller
+
+ASCII
+American Standard Code for Information Interchange
+
+X86
+CISC (Complex Instruction Set Computer)
+
+MOM
+Microsoft Operations Manager
+
+DLL
+Dynamic-link library
+
+NA
+Network Administrator
+
+OTW
+Out The Window
+Out the Window
+
+VDD
+Version Description Document
+
+L2MUM
+Level 2 Man-Unmanned
+
+BSP
+Board Support Package
+
+EPX
+Rockwell Collins line of IGs
+
+AVT
+Automatic Video Tracker
+Automatic Video Tracking
+
+MEN
+menu
+
+PM
+CATT Project Manager, Combined Arms Tactical Trainer
+Program Manager
+
+LS
+List Command
+Part of a Manual name: Illuminator LS-16,
+
+CAD
+Caution and Advisory Display
+Caution and Advisory System
+Cautions and Advisories Display
+Computer-Aided Design
+
+MM
+Manned Module
+
+SRP
+Secure Remote Protocol
+
+VM
+Virtual Machine
+
+PTOC
+Part Time on Call
+
+AATD
+Advanced Aviation Training Device
+
+VI
+Console Virtual Machine Remote Console
+VMware Infrastructure
+
+TTT
+Train-The-Trainer
+
+SMP
+Symmetric Multi-Processing
+
+SDU
+Skyquest AVDU-2650 Display Unit
+
+VPX
+Formerly known as VITA 46, is an ANSI standard (ANSI/VITA 46.0-2007)
+
+VADAAR
+Video Management Software (COTS)
+
+SCIPUFF
+Second Order Closure Integrated Puff
+
+BLT
+Block-transfer instruction, a machine language instruction for PDP-10 computers
+
