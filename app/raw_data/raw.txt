@@ -8,6 +8,9 @@ After Action Review
 AATD
 Advanced Aviation Training Device
 
+ABCS
+Tactical Observations Center Army Battle Command Systems
+
 ACA
 Associate Contractor Agreements
 
@@ -183,6 +186,9 @@ Cockpit Avionics Simulation
 
 CAT2
 Category 2
+
+CATT
+Combined Arms Tactical Trainer
 
 CB
 Circuit Breaker
@@ -634,8 +640,6 @@ Host Based Security System
 
 HCU
 Hand Controller Unit
-Hand Controller Unit (searchlight HCU and Mx15 HCU)
-Hand Controller Units
 
 HID
 Human Interface Device
@@ -712,7 +716,6 @@ Traffic Alert and Collision Avoidance System
 
 ICD
 Interface Control Document
-Interface Control Documents
 
 ICS
 Intercommunication System
@@ -804,7 +807,6 @@ Information Systems Engineering Command
 
 ISO
 International Organization for Standardization
-International Organization for Standardization (File system For CD-ROM Media)
 
 ISP
 Internet Service Provider
@@ -890,7 +892,6 @@ Line Replaceable Unit
 
 LS
 List Command
-Part of a Manual name: Illuminator LS-16,
 
 LS16
 Luminator Searchlight 16
@@ -1078,7 +1079,7 @@ NIC
 Network Interface Card
 
 NIPRNET
-(unclassified but sensitive) Network Internet Protocol Routing Network
+Network Internet Protocol Routing Network
 
 NIR
 Near Infrared Filter
@@ -1120,7 +1121,7 @@ O
 Operation and Maintenance Manual
 
 OCP
-Open/closed principle
+Open/Closed Principle
 
 
 ODBC
@@ -1139,7 +1140,6 @@ OH
 Part of a Government program name OH-58D Block II Level 2 Man-Unmanned (L2MUM) capabilities
 
 OM
-Operation and Maintenance Manual
 Operations and Maintenance
 
 OPFOR
@@ -1165,7 +1165,6 @@ Objective Terrain Format
 
 OTW
 Out The Window
-Out the Window
 
 OUI
 Organization Unique Identifier
@@ -1216,7 +1215,6 @@ PE
 Practical Exercises
 
 PEO
-STRI Program Executive Office for Simulation Training and Instrumentation
 STRI Program Executive Office for Simulation, Training, and Instrumentation
 
 PEO-STRI
@@ -1241,7 +1239,6 @@ PLC
 Programmable Logic ControllerProgrammable Logic Controller
 
 PM
-CATT Project Manager, Combined Arms Tactical Trainer
 Program Manager
 
 PMCS
@@ -1249,7 +1246,6 @@ Preventative Maintenance Corrective Schedule
 
 POC
 Point of Contact
-Point-of-Contact
 
 POI
 Program of Instruction
@@ -1267,11 +1263,10 @@ PWA
 Printed Wiring Assembly
 
 PuTTY
-he word "PuTTY" has no meaning,[1] though 'tty' is sometimes used to refer to the Unix terminals, as an acronym for 'teletype'.
+The word "PuTTY" has no meaning,[1] though 'tty' is sometimes used to refer to the Unix terminals, as an acronym for 'teletype'.
 
 QA
 Quality Assurance
-quality assurance
 
 QAM
 Quadrature Amplitude Modulator
@@ -1439,7 +1434,6 @@ Single Channel Ground and Airborne Radio System
 
 SIP
 Supplemental Instructor Panel
-Supplemental Instructor S Panel
 
 SIPRNET
 Secret Internet Protocol Router Network
@@ -1454,7 +1448,6 @@ SLA
 Service Level Agreement
 
 SLASS
-SLAved Searchlight System
 Slaved Searchlight System
 
 SMDT
@@ -1485,7 +1478,7 @@ SOF
 Start of Frame
 
 SOLID
-ingle responsibility, Open-closed, Liskov substitution, Interface segregation and Dependency inversion
+Single responsibility, Open-closed, Liskov substitution, Interface segregation and Dependency inversion
 
 SOP
 Standard Operating Procedure
@@ -1551,7 +1544,6 @@ Synthetic Training Environment
 
 STIG
 Security Technical Implementation Guide
-Security Technical Implementation Guides
 
 STP
 Spanning Tree Protocol
@@ -1629,7 +1621,6 @@ TNC
 Threaded Neill Concelman
 
 TOC
-ABCS Tactical Observations Center Army Battle Command Systems
 Tactical Operation Center
 
 TP
@@ -1654,7 +1645,6 @@ TTT
 Train-The-Trainer
 
 TTY
-A teletypewriter (also called a teletype or teleprinter)
 TeleType Terminal
 
 TWV
@@ -1744,7 +1734,6 @@ Video Display Unit
 
 VEMD
 Vehicle and Engine Monitoring Display
-Vehicle and Engine Multi-function Display
 
 VGT
 Virtual Guest Tagging
